@@ -38,3 +38,9 @@ elif status == 2:
 
 elif status == 3: 
     print(cateto_pequeño())     #Si el input es de 3, el output es la medida del cateto pequeño
+
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
