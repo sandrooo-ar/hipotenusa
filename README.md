@@ -1,4 +1,4 @@
-# hipotenusa_hypotenuse
+# Hipotenusa
 
 ////Español
 Es un programa que puede calcular los catetos y la hipotenusa de un cuadrado.
